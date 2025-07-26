@@ -1,0 +1,16 @@
+# Adobe India Hackathon 2025 - Round 1B Dependencies
+# Core PDF processing
+PyMuPDF==1.23.26
+
+# Machine learning and text analysis
+scikit-learn==1.3.2
+numpy==1.24.3
+
+# Natural language processing
+nltk==3.8.1
+
+# Image processing (required by PyMuPDF)
+Pillow==10.0.1
+
+# Regular expressions
+regex==2023.10.3
