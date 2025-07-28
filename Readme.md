@@ -1,6 +1,4 @@
-Here's a professional and attractive README for your Persona-Driven Document Intelligence solution:
 
----
 
 # Persona-Driven Document Intelligence
 
